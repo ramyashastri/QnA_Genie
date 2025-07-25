@@ -1,8 +1,6 @@
-# Q&A Genie 🎯
-
 Q&A Genie is an intelligent question management system that leverages AI to streamline Q&A sessions in conferences and presentations. It helps speakers manage audience questions efficiently by filtering out redundant questions and prioritizing relevant ones.
 
-## 🌟 Features
+## Features
 
 - **AI-Powered Question Analysis**
   - Automatic relevance checking
@@ -112,35 +110,7 @@ cd AI\ model
 python app.py
 ```
 
-The application will be available at:
-- Frontend: `http://localhost:3000`
-- Backend: `http://localhost:5001`
-- AI Model: `http://localhost:5000`
-
-## 📱 Usage
-
-1. **User Registration/Login**
-   - Register as a new user
-   - Login with credentials
-   - Role-based access control
-
-2. **Speaker Features**
-   - Create and manage topics
-   - View filtered questions
-   - Mark questions as answered
-   - Access analytics dashboard
-
-3. **Audience Features**
-   - Submit questions
-   - View question status
-   - Filter by topics
 
 
-## 🤝 Contributing
 
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
