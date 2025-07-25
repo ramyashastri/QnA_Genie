@@ -40,7 +40,7 @@ Q&A Genie is an intelligent question management system that leverages AI to stre
 - Streamlit
 - Scikit-learn
 
-## 📋 Prerequisites
+## Prerequisites
 
 - Node.js (v14 or higher)
 - Python 3.8+
@@ -48,7 +48,7 @@ Q&A Genie is an intelligent question management system that leverages AI to stre
 - npm or yarn
 - Git
 
-## 🚀 Installation
+## Installation
 
 1. **Clone the repository**
 ```bash
@@ -90,7 +90,7 @@ Frontend `.env`:
 REACT_APP_API_URL=http://localhost:5001/api
 ```
 
-## 🏃‍♂️ Running the Application
+## Running the Application
 
 1. **Start the Backend Server**
 ```bash
